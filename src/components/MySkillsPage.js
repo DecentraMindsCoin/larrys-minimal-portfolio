@@ -140,7 +140,7 @@ I value  for which i'm creating, thus i enjoy bringing new ideas to life.
 <Description>
 <strong>Technology</strong>
 <p>
-Html, Css, Js, React, Next.js, Node, Tailwind, GraphQL, Sanity, NOSQL, Headless CMS
+Html, Css, Js, React, Next.js, Node, Tailwind, GraphQL, Sanity, NOSQL, Headless CMS, AWS
 </p>
 </Description>
 <Description>
