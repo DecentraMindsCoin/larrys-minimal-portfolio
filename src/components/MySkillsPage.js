@@ -114,7 +114,7 @@ I love to create & design things that speaks, I try to keep it clean, minimal an
         React Components
     </li>
     <li>
-        Blockcain UX
+        Blockchain UX
     </li>
 </ul>
 </Description>
