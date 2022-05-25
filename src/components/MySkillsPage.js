@@ -93,19 +93,28 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> UX Product Designer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+I love to create & design things that speaks, I try to keep it clean, minimal and simple.
 </Description>
 <Description>
 <strong>I like to Design</strong>
 <ul>
     <li>
-        Web Design
+        Responsive Web App
     </li>
     <li>
-        Mobile Apps
+        Mobile Ui
+    </li>
+    <li>
+        3D Objects
+    </li>
+    <li>
+        React Components
+    </li>
+    <li>
+        Blockcain UX
     </li>
 </ul>
 </Description>
@@ -113,8 +122,9 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma
+       Figma, Adobe, Framer
     </li>
+ 
     
 </ul>
 </Description>
@@ -122,21 +132,21 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Frontend React Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I value  for which i'm creating, thus i enjoy bringing new ideas to life.
+</Description>
+<Description>
+<strong>Technology</strong>
+<p>
+Html, Css, Js, React, Next.js, Node, Tailwind, GraphQL, Sanity, NOSQL, Headless CMS
+</p>
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
-</p>
-</Description>
-<Description>
-<strong>Tools</strong>
-<p>
-VScode, Github, Codepen etc.
+Problem Solver, Fast Learner, Api's
 </p>
 </Description>
 
