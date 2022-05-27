@@ -132,7 +132,7 @@ I love to create & design things that speaks, I try to keep it clean, minimal an
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend React Developer
+    <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
 I value  for which i'm creating, thus i enjoy bringing new ideas to life.
